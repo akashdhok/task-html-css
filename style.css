@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-head{
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+    font-size: 90px ;
+    margin-top: 30px;
+    margin-top: 20px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 30px;
+    /* margin-left: 40px; */
+}
+a{
+  text-decoration: none;
+  color: black;
+  margin-top: 20px;
+  margin-left: 40px;
+  transition-duration: 0.2s;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+    font-size: large;
+}
+img{
+    height: 900px;
+    margin-top: 30px;
+}
+.second-head{
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 900;
+    font-style: normal;
+    /* text-align: center; */
+    font-size: 150px;
+    font-weight: bolder;
+    position: absolute;
+    color: white;
+   margin-top: 600px;
+   left: 450px;
+   font-stretch: extra-expand;
+}
+hr{
+    margin-top: 20px;
+}
+h3{
+    position: absolute;
+    /* color: white; */
+   margin-top: 760px; 
+   left: 600px;
+}
+h2{
+    position: absolute;
+    /* color: white; */
+   margin-top: 755px; 
+   left: 800px;  
+   background-color: white;
+}
